@@ -1,0 +1,41 @@
+#input1 - real
+
+WASHINGTON (Reuters) - The U.S. Federal Reserve held interest rates steady on Wednesday and in a new policy statement signaled it is still leaning toward one more rate hike this year.
+
+The central bank's rate-setting committee, in a statement after its latest two-day meeting, said the economy was rising at a 'solid rate' despite hurricane-related disruptions and that new business investment was 'picking up.'
+
+Policymakers also announced they would begin in October to trim the central bank's $4.5 trillion portfolio of bonds and other assets, a process that is expected to run for several years.
+
+# input2 - real
+
+LONDON (Reuters) - European stocks edged lower in early trade on Friday, with commodity-related shares falling on the back of weaker oil and metal prices. The pan-European STOXX 600 index was down 0.1 percent by 0720 GMT, on track to end the week with a small gain.
+
+Mining and oil stocks were the biggest weight on the market, with the STOXX Europe 600 Basic Resources index falling 0.8 percent as copper prices hit a one-week low.
+
+#input3 - real
+
+BEIRUT (Reuters) - Syrian government forces and their allies advanced against insurgents in the country's northwest on Sunday, a monitoring group and a rebel source said. The advance, in the southern part of Idlib province, is part of a major offensive that has gained ground in the last major rebel stronghold.
+
+#input4 - fake
+
+Donald Trump Just Proved He Is A Complete And Utter Tool Of The Deep State
+
+For all of you who thought Trump was going to save the republic, it's time to wake up. Donald Trump has completely sold out. His latest cabinet appointments are all Goldman Sachs bankers and military-industrial complex shills.
+
+He is not draining the swamp, he is filling it with bigger, more dangerous creatures. He is a puppet for the globalists, just like Hillary and Obama. He is pushing for wars in the Middle East and letting the bankers run the country. He fooled all of you.
+
+#input5 - fake
+
+BREAKING: ‘Pizzagate’ Informant Found Dead In Bathtub After Exposing Podesta, Clinton
+
+An informant who was set to expose the Podesta ‘Pizzagate’ child sex ring has been found dead in a bathtub. The informant, who was a well-known political activist, was due to testify in court this week.
+
+Authorities are already ruling the death a ‘suicide’ but sources close to the case say it was a professional hit. The informant had released tapes showing that Hillary Clinton and John Podesta were at the center of the child trafficking ring, and was silenced before they could release more.
+
+#input6 - fake
+
+Big Pharma Is Terrified: This ONE Weed Kills Cancer And They Are Hiding It From You
+
+The medical establishment has been lying to us for decades. There is a simple, natural cure for cancer that they don't want you to know about, because it would put them out of business.
+
+This humble plant, which grows in your own backyard, has been scientifically proven to shrink tumors by 98% in just 48 hours. Why haven't you heard of it? Because Big Pharma has spent billions to discredit this research and keep you sick and paying for their expensive, toxic chemotherapy.
